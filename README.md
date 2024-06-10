@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Mikail Fasilat Ajibola - [Github](https://github.com/Nickkiemaf) / [Twitter](https://x.com/writingtechlady) 
-Busola Odujirin - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Busola Elizabeth Odujinrin - [Github](https://github.com/Ewaboocee) / [Twitter](https://x.com/BusolaOdujinrin)
 
 Second part of Airbnb: Joann Vuong
 ## License
